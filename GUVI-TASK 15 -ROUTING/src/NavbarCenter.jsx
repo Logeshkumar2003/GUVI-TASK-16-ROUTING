@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 function NavbarCenter() {
   return (
     <>
-    // creating navbar compnents using Bootstrap and created path using react-Router-Dom //
+{/*     // creating navbar compnents using Bootstrap and created path using react-Router-Dom // */}
       <nav className="navbar navbar-expand-lg border border-black bg-warning-subtle rounded-4 mt-3">
         <div className="container-fluid shadow border rounded-5   border-black">
           <div className="col-12">
