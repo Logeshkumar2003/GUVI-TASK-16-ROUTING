@@ -1,3 +1,10 @@
+C⭐ -BloGE Deployed on :https://guvi-task-16-routing-mk5z.vercel.app/
+
+Thanks to vercel for deploying our sites 
+
+https://vercel.com/home
+
+
 # GUVI-TASK-16-ROUTING
 https://reactrouter.com/en/main
 
